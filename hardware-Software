@@ -1,0 +1,54 @@
+/* Hardware
+se refieres a laaprte fissicas tangibles de una computadora 
+procesador
+placa maadre
+memoria RAM
+Disco duro
+tanto eentreda teclado mouse, escaner
+salidad imoresora, pantalla
+soporte fisoco 
+
+Software
+soporte logico
+softe de sistema (controladores, servidores, gestores, utilidad )
+, aplicacion (creados de programcion, offices, objetivos, empresarial, software orientados 
+a solucionar algun problema) y 
+programacion (proramas, paquetes, lenguajes de programacion,entornos de programacion)
+
+Tipos de datos primitivos 
+Numerico __sveltets_2_ensureRightProps, dicimales y de coma flante
+String secuencia de caracteres, tambien llamado texto
+Boolean datos logicos , true o false 
+undefined tipos de datos no definido
+Null --> Datos que no existen llamados datos nulos
+
+FUNCIÓN
+Las funciones son uno de ks pilares fundamentales en javaScript. Una funcoines es un procedimiento en javaScript
+Conjunto de sentenciass que realizan una tarea o calculan un valor, para usar una función, debe definirla en 
+algun lugar del ambito desde el cual desea llamarla
+
+
+
+
+ */
+
+//HTMl5, CSS3 y EL DOM
+/* <!DOCTYPE html> indica una version actual de html
+DOM --> Document Object Momdel o DOM 
+Estructura de arbol impicita(estructura de arbol qe se manja ente las etiquetas y como se relacionan)
+
+dument.getElementById(id) --> selecionar un elemnto con un id 
+element.getElement.getElementsByTagName(name) --> selecionar por nombre de la etiqueta
+document.createElement(anme) agregar o crear elemnto de una etiqueta
+parentNode.appendChild(node)agrar un elemnto hijo al padre
+element.innerHTML --> modificar el documento de HTML
+element.style.left --> modificar el stilo
+element.setAttribute --> agreagr un atributo en html
+element.element.getAttribute --> obtener un atributo de HTML
+element.addEventListener --> agregar eventos , boton,cllc
+windows.content -->
+windows.onload -->
+windows.dump -->
+windows.scrollTo -->
+
+*/
